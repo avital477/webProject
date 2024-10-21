@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Animals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|c:\\users\\user\\source\\repos\\animals\\animals\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|c:\\users\\user\\source\\repos\\animals\\animals\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|c:\\users\\user\\source\\repos\\animals\\animals\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\css\\animal2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\css\\animal2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\css\\animalstayle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\css\\animalstayle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\dogm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\dogm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\masterpage.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\masterpage.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\html\\dog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\html\\dog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\html\\cat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\html\\cat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\html\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\html\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\secretpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\secretpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\secretpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\secretpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\html\\lion.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\html\\lion.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Animals\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Animals\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:29:08.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Animals\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.cs",
+              "RelativeToolTip": "Animals\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:29:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master",
+              "RelativeDocumentMoniker": "Animals\\MasterPage.Master",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master",
+              "RelativeToolTip": "Animals\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-02T08:41:08.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HomePage.aspx",
+              "RelativeDocumentMoniker": "Animals\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HomePage.aspx",
+              "RelativeToolTip": "Animals\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-14T08:12:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Css\\Menu.css",
+              "RelativeDocumentMoniker": "Animals\\Css\\Menu.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Css\\Menu.css",
+              "RelativeToolTip": "Animals\\Css\\Menu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-03T07:40:50.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx",
+              "RelativeDocumentMoniker": "Animals\\Login.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx",
+              "RelativeToolTip": "Animals\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T09:29:08.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal2.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Css\\Animal2.css",
+              "RelativeDocumentMoniker": "Animals\\Css\\Animal2.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Css\\Animal2.css",
+              "RelativeToolTip": "Animals\\Css\\Animal2.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T06:45:10.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalStayle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Css\\AnimalStayle.css",
+              "RelativeDocumentMoniker": "Animals\\Css\\AnimalStayle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Css\\AnimalStayle.css",
+              "RelativeToolTip": "Animals\\Css\\AnimalStayle.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T07:31:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DogM.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\DogM.aspx",
+              "RelativeDocumentMoniker": "Animals\\DogM.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\DogM.aspx",
+              "RelativeToolTip": "Animals\\DogM.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T07:43:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "Animals\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\WebForm2.aspx",
+              "RelativeToolTip": "Animals\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-14T08:22:12.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Animals\\WebForm1.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "Animals\\WebForm1.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:14:35.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Animals\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Animals\\WebForm1.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:14:46.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MasterPage.Master.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master.cs",
+              "RelativeDocumentMoniker": "Animals\\MasterPage.Master.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master.cs",
+              "RelativeToolTip": "Animals\\MasterPage.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:36:51.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Animals\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\WebForm1.aspx",
+              "RelativeToolTip": "Animals\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-01T08:57:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MasterPage.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master.designer.cs",
+              "RelativeDocumentMoniker": "Animals\\MasterPage.Master.designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master.designer.cs",
+              "RelativeToolTip": "Animals\\MasterPage.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:36:58.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dog.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HTML\\Dog.html",
+              "RelativeDocumentMoniker": "Animals\\HTML\\Dog.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HTML\\Dog.html",
+              "RelativeToolTip": "Animals\\HTML\\Dog.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-01T07:23:54.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cat.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HTML\\Cat.html",
+              "RelativeDocumentMoniker": "Animals\\HTML\\Cat.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HTML\\Cat.html",
+              "RelativeToolTip": "Animals\\HTML\\Cat.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-01T07:25:32.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HtmlPage1.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HTML\\HtmlPage1.html",
+              "RelativeDocumentMoniker": "Animals\\HTML\\HtmlPage1.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HTML\\HtmlPage1.html",
+              "RelativeToolTip": "Animals\\HTML\\HtmlPage1.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-01T07:19:14.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\JS\\JavaScript.js",
+              "RelativeDocumentMoniker": "Animals\\JS\\JavaScript.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\JS\\JavaScript.js",
+              "RelativeToolTip": "Animals\\JS\\JavaScript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T09:00:56.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SecretPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\SecretPage.aspx.cs",
+              "RelativeDocumentMoniker": "Animals\\SecretPage.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\SecretPage.aspx.cs",
+              "RelativeToolTip": "Animals\\SecretPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:39:47.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SecretPage.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\SecretPage.aspx",
+              "RelativeDocumentMoniker": "Animals\\SecretPage.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\SecretPage.aspx",
+              "RelativeToolTip": "Animals\\SecretPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-01T10:12:06.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Lion.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HTML\\Lion.html",
+              "RelativeDocumentMoniker": "Animals\\HTML\\Lion.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\HTML\\Lion.html",
+              "RelativeToolTip": "Animals\\HTML\\Lion.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-01T07:26:11.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

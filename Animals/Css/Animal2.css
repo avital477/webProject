@@ -1,0 +1,65 @@
+﻿body {
+}
+h1 {
+    color: antiquewhite;
+    text-align:center;
+}
+.secondH{
+    color:aquamarine;
+}
+.title{
+    text-align:center;
+    color:chocolate;
+}
+img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: large;
+    text-align: center;
+    padding: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #00ff90;
+}
+li {
+    float:right;
+}
+.active{
+    background-color:brown;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+table, th, td{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    border:4px solid;
+    border-collapse:collapse;
+}
+
+.tbAnimal {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

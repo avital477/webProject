@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="Animals.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <script src="JS/JavaScript.js"></script>
+    <link href="Css/Menu.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="direction:rtl">
+    <form id="form1" runat="server">
+         <h1>MASTER</h1>
+        <div class="menu-container">
+        <ul class="text-menu">
+           
+            <li><a href="DogM.aspx">כלבים</a></li>
+            <li><a href="Cat.html">חתולים</a></li>
+            <li><a href="Lion.html">אריות</a></li>
+            <li><a href="HomePage.aspx">דף הבית</a></li>
+            <li><a href="Login.aspx">הרשמה</a></li>
+             <li><a href="Login.aspx">2הרשמה</a></li>
+           <%-- <li><a href="#">חומרה</a></li>
+            <li><a href="#">מוצרי חשמל לבית</a></li>--%>
+            <li><a href="#">אוזניות</a></li>
+            <li><a href="#">אביזרים</a></li>
+        </ul>
+    </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+       
+    </form>
+</body>
+</html>
