@@ -18,5 +18,10 @@ namespace Animals
         {
 
         }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

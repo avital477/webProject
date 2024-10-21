@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Animals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|c:\\users\\user\\source\\repos\\animals\\animals\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|c:\\users\\user\\source\\repos\\animals\\animals\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|solutionrelative:animals\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D421982D-D7A3-4E1E-936E-ED902141CB31}|Animals\\Animals.csproj|C:\\Users\\User\\source\\repos\\Animals\\animals\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -98,45 +98,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Login.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.designer.cs",
               "RelativeDocumentMoniker": "Animals\\Login.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.designer.cs",
-              "RelativeToolTip": "Animals\\Login.aspx.designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.designer.cs*",
+              "RelativeToolTip": "Animals\\Login.aspx.designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T13:29:08.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Animals\\Login.aspx.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx.cs",
               "RelativeToolTip": "Animals\\Login.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T13:29:06.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MasterPage.Master",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master",
-              "RelativeDocumentMoniker": "Animals\\MasterPage.Master",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master",
-              "RelativeToolTip": "Animals\\MasterPage.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-02T08:41:08.806Z",
               "EditorCaption": ""
             },
             {
@@ -167,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\Login.aspx",
               "RelativeDocumentMoniker": "Animals\\Login.aspx",
@@ -176,6 +163,19 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-03T09:29:08.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master",
+              "RelativeDocumentMoniker": "Animals\\MasterPage.Master",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Animals\\Animals\\MasterPage.Master",
+              "RelativeToolTip": "Animals\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-02T08:41:08.806Z",
               "EditorCaption": ""
             },
             {
