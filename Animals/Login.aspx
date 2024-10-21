@@ -10,5 +10,6 @@
     <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
     <br />
     <br />
+    <asp:Button ID="Button2" runat="server" Text="שלח כפתור 2" OnClick="Button2_Click" />
     <asp:Button ID="Button1" runat="server" Text="שלח" OnClick="Button1_Click" />
 </asp:Content>
